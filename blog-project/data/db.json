@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "title": "Edited Hello 101....",
+      "body": "He is the edited hello message...\n\nBut I later edited it to show how edit can be done... ",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "title": "Edited Technical Details ",
+      "body": "Below are the details of the machine....\n\nMake good use of the manual....\n\nI just edited this post.\n\nHello there!\n\nHaha there!",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "title": "The Potipharian  Article",
+      "body": "Potiphar was chief security officer for Pharaoh in Egypt.\n\nHe must have been an intelligent man. A militant man...\n\nHe would the intelligence of Egypt at hand...\n\nBut how come he believed his wife's story about Joseph.\n\nHe did not even investigate the report of his wife....\n\nHis wife must have been a woman with considerable impact on the decisions he made. What a woman!",
+      "likes": 0,
+      "id": 3
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Which one would you prefer? React or Vue?",
+      "answerA": "React",
+      "answerB": "Vue"
+    }
+  ]
+}
